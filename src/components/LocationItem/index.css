@@ -1,0 +1,33 @@
+.list-container {
+  list-style-type: none;
+  margin-bottom: 48px;
+  margin-right: 10px;
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.location-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 20px;
+}
+.image {
+  width: 100%;
+}
+.text-container {
+  padding: 10px;
+}
+.heading {
+  font-size: 15px;
+  text-align: left;
+}
+.para {
+  font-size: 15px;
+  text-align: left;
+}
